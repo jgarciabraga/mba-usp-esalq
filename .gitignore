@@ -211,3 +211,8 @@ lending_club_clean.feather
 loan_data_total.csv
 amostra_estruturada.csv
 *.csv
+*.pdf
+*.docx
+*.pptx
+*.doc
+*.ppt

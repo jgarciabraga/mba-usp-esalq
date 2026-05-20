@@ -209,3 +209,5 @@ __marimo__/
 # Arquivos que estão no dropbox
 lending_club_clean.feather
 loan_data_total.csv
+amostra_estruturada.csv
+*.csv
